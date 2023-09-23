@@ -21,4 +21,14 @@
 
 # 5- git config --global user.email - prithvirajpowar20@gmail.com
 
-# 6- 
+# 6- git add . 
+
+# 7- git status
+
+# 8- git commit -m "this is my include requirement.txt and readme file"
+
+# 9- git push origin main
+
+
+
+
